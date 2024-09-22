@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245871650724",
+    "project_id": "gymsafedatabase",
+    "storage_bucket": "gymsafedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245871650724:android:11d2b98935b0a9ef6e0331",
+        "android_client_info": {
+          "package_name": "com.example.gymsafeflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwLLCq3inepnf3rcQNlip_rprPzscRfpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
